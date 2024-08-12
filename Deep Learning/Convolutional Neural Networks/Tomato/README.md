@@ -4,7 +4,7 @@ This project implements a Convolutional Neural Network (CNN) to detect and class
 
 ## Project Structure
 
-- [Dataset](https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf): The dataset of tomato leaf images.
+- **Dataset**: The dataset of tomato leaf images.
 - **Tomato_Leaf_Disease_Detection.ipynb**: The Jupyter Notebook containing the full implementation of the CNN model, including data preprocessing, model architecture, training, and evaluation.
 
 ## Dataset
