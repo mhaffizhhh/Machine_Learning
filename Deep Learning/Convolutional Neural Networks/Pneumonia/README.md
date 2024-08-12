@@ -1,6 +1,6 @@
 # Pneumonia Detection using Convolutional Neural Networks (CNN)
 
-This repository contains a project that implements a Convolutional Neural Network (CNN) to detect pneumonia from chest X-ray images. The model is trained to distinguish between images showing healthy lungs and those affected by pneumonia.
+This repository contains a project that implements a Convolutional Neural Networks (CNN) to detect pneumonia from chest X-ray images. The model is trained to distinguish between images showing healthy lungs and those affected by pneumonia.
 
 ## Project Structure
 
@@ -29,5 +29,5 @@ To run the notebook, you will need to install Python along with several librarie
 The CNN model is trained to classify chest X-ray images as either normal or pneumonia-affected. The performance of the model is evaluated primarily using the accuracy metric. The notebook provides a step-by-step guide through the entire process, from data preparation to model evaluation.
 
 ## Conclusion
-This project demonstrates the application of Convolutional Neural Network (CNN) in medical imaging, specifically for detecting pneumonia from chest X-ray images. It serves as a practical example of how deep learning can be applied to real-world healthcare challenges.
+This project demonstrates the application of Convolutional Neural Networks (CNN) in medical imaging, specifically for detecting pneumonia from chest X-ray images. It serves as a practical example of how deep learning can be applied to real-world healthcare challenges.
 
