@@ -20,10 +20,10 @@ To run the notebooks in these projects, you will need Python installed along wit
 
 ## Projects Overview
 ### Artificial Neural Network (ANN)
-- Folder: Artificial Neural Network/
+- Folder: Artificial Neural Networks
 - Description: This subfolder contains projects where ANN is applied to various problems such as regression and classification. These projects demonstrate the flexibility of ANN in handling different types of data and predicting outcomes.
 ### Convolutional Neural Network (CNN)
-- Folder: Convolutional Neural Network/
+- Folder: Convolutional Neural Networks
 - Description: This subfolder contains projects where CNN is applied to image classification tasks. Projects include applications in medical imaging, agriculture, and more, highlighting the effectiveness of CNN in extracting spatial features from images.
 
 ## Conclusion
