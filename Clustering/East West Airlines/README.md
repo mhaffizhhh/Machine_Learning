@@ -4,19 +4,19 @@ This repository contains a clustering analysis project using the K-Means algorit
 ## Project Overview
 In this project, we focus on grouping data points into clusters based on their similarities. The notebook includes the following key steps:
 
-**1.** Data Preprocessing:
+**1. Data Preprocessing**:
 
 Load and preprocess the dataset to prepare it for clustering. This involves selecting relevant features and scaling the data as necessary.
 
-**2.** Elbow Method:
+**2. Elbow Method**:
 
 The Elbow method is applied to determine the optimal number of clusters by plotting the Within-Cluster Sum of Square (WCSS) against the number of clusters.
 
-**3.** K-Means Clustering:
+**3. K-Means Clustering**:
 
 The K-Means algorithm is implemented to cluster the data into the optimal number of clusters identified by the Elbow method. The results are then visualized, showing how the data points are grouped.
 
-**4.** Interpretation:
+**4. Interpretation**:
 
 The optimal number of clusters is determined to be 4, based on the point where the Elbow curve begins to flatten.
 
