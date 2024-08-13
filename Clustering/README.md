@@ -3,6 +3,7 @@ This folder contains projects related to clustering analysis in machine learning
 
 ## Subfolders Overview
 **1.** Penguins
+
 This subfolder contains the project **ML_Clustering_1.ipynb**, which explores multiple clustering algorithms including K-Means, Hierarchical Clustering, and DBSCAN. The project provides a detailed analysis of each algorithm, including data preprocessing, visualization, and interpretation of results.
 
 ## Algorithms Covered:
@@ -14,7 +15,10 @@ This subfolder contains the project **ML_Clustering_1.ipynb**, which explores mu
 - Elbow Method for optimal clusters
 - Dendrogram for Hierarchical Clustering
 - Visualization of clustering results
+
+
 **2.** East West Airlines
+
 This subfolder contains the project **ML_Clustering_2.ipynb**, which focuses specifically on K-Means Clustering. The notebook demonstrates how to determine the optimal number of clusters using the Elbow method and provides a detailed visualization of the clustering results.
 
 ## Algorithms Covered:
