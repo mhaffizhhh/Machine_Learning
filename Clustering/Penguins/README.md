@@ -1,5 +1,5 @@
 # ML Clustering Analysis
-This repository contains a machine learning project focused on clustering analysis using various algorithms. The notebook ML_Clustering_1.ipynb includes data preprocessing, visualization, and the implementation of clustering algorithms such as K-Means, Hierarchical Clustering, and DBSCAN.
+This repository contains a machine learning project focused on clustering analysis using various algorithms. The notebook ML_Clustering_1.ipynb includes data preprocessing, visualization, and the implementation of clustering algorithms such as K-Means, and Hierarchical Clustering.
 
 ## Project Overview
 This project explores clustering techniques to group similar data points in a dataset. The following steps are covered in the notebook:
