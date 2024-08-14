@@ -9,5 +9,5 @@ The [Raisin_Dataset.xlsx](https://github.com/mhaffizhhh/Machine_Learning/blob/ma
 * Model Selection
 
 ## Result
-The results can be seen in [ML_Classification_2.ipynb](https://github.com/mhaffizhhh/Machine_Learning/blob/main/Classification/Raisin/ML_Classification_2.ipynb) with Logistic Regression having the largest accuracy score.
+The results can be seen in [ML_Classification_2.ipynb](https://github.com/mhaffizhhh/Machine_Learning/blob/main/Classification/Raisin/ML_Classification_2.ipynb) with SVM and Kernel SVM having the largest accuracy score.
 
